@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When we initialize a repository, a .git (hidden) file gets added which keeps all the commit records and metadata of the repository.
+We need to do it because we need those commit records so that we can arrive to this point in future in case of any condition.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory is just the collection of files while the staging area is the area where files are added to be tracked
+by git. Repository is a place where i think all the data, the files and the .git file which contains data about data, and history is stored.
+The value it offers: It tracks the untracked files by Git which can later be commit to store a commit point in Git  log.
