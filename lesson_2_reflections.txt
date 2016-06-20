@@ -13,3 +13,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 After making changes to a file keep adding them to staging area. Then whenever you feel that you have changed enough that you have arrived 
 to logical change, commit it.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are very helpful when we want to do a different thing wiht our existing project. Suppose you want to create similar model with
+some different features but slightly. And you want both these projects to be separated because of this difference in concept. This is
+where branching helps us.
