@@ -24,3 +24,15 @@ What is the result of merging two branches together? Why do we represent it in t
 
 When we are extending a project to some changes parallely and then we want to merge our work to the original work but along with not just 
 our work it may happen than multiple parallel branched may add up to form a new master then we use Branching.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: 
+
+A) Automatic merging: Fast, no user guidance.
+B) Manual: Overhead to judge code or paste them in a fashion of non conflicting statements.
+
+Cons:
+
+A) Automatic merging: Might cause some serious conflicts.
+B) Manual: No chance of conflicts.
