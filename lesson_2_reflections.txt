@@ -19,3 +19,8 @@ What are some situations when branches would be helpful in keeping your history 
 Branches are very helpful when we want to do a different thing wiht our existing project. Suppose you want to create similar model with
 some different features but slightly. And you want both these projects to be separated because of this difference in concept. This is
 where branching helps us.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When we are extending a project to some changes parallely and then we want to merge our work to the original work but along with not just 
+our work it may happen than multiple parallel branched may add up to form a new master then we use Branching.
